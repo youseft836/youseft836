@@ -15,7 +15,6 @@ I'm a motivated CS developer who loves learning and exploring new technologies. 
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/yousef-tarek-102453260/" target="_blank">
-<img src="https://img.shields.io/badge/Abanoub%20Fakhry-LinkedIn%20Profile-blue?style=flat&logo=appveyor"/></a>
 
 ### 🛠 &nbsp;Top Tech Stack
 
@@ -41,9 +40,3 @@ I'm a motivated CS developer who loves learning and exploring new technologies. 
   <img alt="SOLID principles" src="https://img.shields.io/badge/-SOLID%20principles-212121?style=flat-square" />
   <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-1976D2?style=flat-square" />
 </p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbanoubFakheryMakram&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=AbanoubFakheryMakram&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=AbanoubFakheryMakram&style=for-the-badge">
-</a>
