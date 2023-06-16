@@ -15,6 +15,7 @@ I'm a motivated CS developer who loves learning and exploring new technologies. 
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/yousef-tarek-102453260/" target="_blank">
+<img src="https://img.shields.io/badge/Yousef%20Tarek-My%20Linkedin%20Profile-blue"/> <a/>
 
 ### 🛠 &nbsp;Top Tech Stack
 
